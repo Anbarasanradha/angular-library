@@ -1,0 +1,22 @@
+{
+  "name": "zen-one",
+  "version": "1.0.1",
+  "description": "is the string zen?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anbarasanradha/angular-library.git"
+  },
+  "keywords": [
+    "zen-one"
+  ],
+  "author": "Anbarasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anbarasanradha/angular-library/issues"
+  },
+  "homepage": "https://github.com/Anbarasanradha/angular-library#readme"
+}
