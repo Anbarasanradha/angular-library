@@ -1,6 +1,6 @@
 {
   "name": "zen-one",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "is the string zen?",
   "main": "index.js",
   "scripts": {
